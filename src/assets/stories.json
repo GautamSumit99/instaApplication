@@ -1,0 +1,11 @@
+[
+  { "id": 1, "imageUrl": "story1.jpg" },
+  { "id": 2, "imageUrl": "story2.jpg" },
+  { "id": 3, "imageUrl": "story3.jpg" },
+  { "id": 4, "imageUrl": "story1.jpg" },
+  { "id": 5, "imageUrl": "story2.jpg" },
+  { "id": 6, "imageUrl": "story3.jpg" },
+  { "id": 7, "imageUrl": "story1.jpg" },
+  { "id": 8, "imageUrl": "story2.jpg" },
+  { "id": 9, "imageUrl": "story3.jpg" }
+]
